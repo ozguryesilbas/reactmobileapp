@@ -1,0 +1,4 @@
+cd reactmobileapp
+npm install
+npm install expo-cli --global --save
+npx expo start --android
